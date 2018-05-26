@@ -10,7 +10,7 @@ docker run --rm imred/chinese_poem_generator -m test
 ```
 
 ```
-藏头诗
-docker run --rm imred/chinese_poem_generator -m head 
+藏头诗(交互模式)
+docker run -i --rm imred/chinese_poem_generator -m head 
 ```
 

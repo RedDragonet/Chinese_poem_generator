@@ -2,7 +2,7 @@
 
 code from https://github.com/hjptriplebee/Chinese_poem_generator.git
 
-#useage
+#usage
 
 ```
 随机写诗
